@@ -30,5 +30,5 @@ The database consists of 5 main tables:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hospital-management.git
+   git clone https://github.com/sarkarwasim1991/hospital-management.git
    cd hospital-management
